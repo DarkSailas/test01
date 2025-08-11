@@ -1,1 +1,1 @@
-# First version of Eldenr Ring Nightreign Autotimer
+# First version of Elden Ring Nightreign Autotimer
